@@ -1,4 +1,4 @@
-#windowsTerminal
+# WindowsTerminal
 >
 >my windowsTerminal profiles.json config
 >
